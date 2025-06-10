@@ -17,7 +17,7 @@ GoCreeper is an intelligent web content discovery tool written in Go. Unlike tra
 ## Installation
 
 ```bash
-go install github.com/hunter/gocreeper@latest
+go install github.com/hunterrr27/gocreeper@latest
 ```
 
 ## Usage
@@ -41,7 +41,7 @@ gocreeper -u https://example.com \
 ## Building from Source
 
 ```bash
-git clone https://github.com/hunter/gocreeper
+git clone https://github.com/hunterrr27/gocreeper
 cd gocreeper
 go build
 ```

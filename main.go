@@ -8,7 +8,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/hunter/gocreeper/crawler"
+	"github.com/hunterrr27/gocreeper/crawler"
 )
 
 type outputFormat string

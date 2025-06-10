@@ -1,4 +1,4 @@
-module github.com/hunter/gocreeper
+module github.com/hunterrr27/gocreeper
 
 go 1.21
 
